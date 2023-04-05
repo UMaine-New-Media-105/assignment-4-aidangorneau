@@ -10,3 +10,6 @@ q2 link - https://editor.p5js.org/aidan.gorneau/sketches/lgQQIaEep
 
 question 3 - for the third question, we were tasked with making random aspects to our gridded shapes using arrays. I made an array of colors and an array of numbers for sizes, and made different parts of the shapes to be different sizes and colors from those arrays. 
 q3 link - https://editor.p5js.org/aidan.gorneau/sketches/Z_oa_dKkM
+
+question 4 - for the forth question, we were tasked with making patterns in a set order based on the rows and columns of our grid. I made each column of hearts equal to a color variable, making a rainbow from the columns, and then changed the color for the arc piece in the corner to eba reversed rainbow. for the circle pattern, I made them change random colors constantly and made their sizes increase the further down the columns they were. I was also able to use the %(remainder) symbol and array.length to make the columns and rows repeat based on how many times the hard code is set to. 
+q4 link - https://editor.p5js.org/aidan.gorneau/sketches/FbLSQKEYl
